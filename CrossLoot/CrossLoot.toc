@@ -1,0 +1,10 @@
+## Interface: 70000
+## Title:|cffff7d0aCrossLoot
+## Author: Nem and Company
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Loot + Roll for Cross Server Raids
+## URL: http://wow.curseforge.com/addons/cross-gambling/
+## SavedVariables: CrossLoot
+CrossLoot.xml
